@@ -17,7 +17,7 @@ Nota: No debe usar expresión regular.
 La forma de la solución va enfocada a la eficiencia computacional al realizar una sola iteración que comprueba las distintas condiciones. Teniendo en cuenta que la eficiencia del método ```includes``` es T(n) = O(n) = log(n), entonces la complejidad del algoritmo es T(n) = O(n) = n + 2log(n) + 10
 
 ## Ejecución y visualización
-1 - Se debe tener instalado node.js
+1 - Se debe tener instalado node.js  
 2 - Se debe ejecutar el siguiente comando estando dentro de la carpeta "item_three":
 ```sh
 node .\itemThree.js
