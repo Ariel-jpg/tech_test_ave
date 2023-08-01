@@ -9,7 +9,7 @@ La implementación de la solución se hizo con usando fetch, promesas, expressio
 
 ## Ejecución y visualización
 1 - Se debe tener instalado npm (viene por defecto en la instalación de node)
-2 - Se deben ejecutar los siguientes comandos estando dentro de la carpeta "item_six":
+2 - Se deben ejecutar los siguientes comandos estando dentro de la carpeta "item_six":  
 2.1 - 
 ```sh
 npm install
