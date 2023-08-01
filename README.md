@@ -1,4 +1,4 @@
-# Evaluación técnico de AVE Market It
+# Evaluación técnica de AVE Market It
 Se presentaron 8 problemas de los cuales se eligieron 4 para resolver.
 Específicamente fueron:
 - Problema 1
